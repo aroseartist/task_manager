@@ -10,3 +10,4 @@ api.py
 node_modules
 *.log
 build
+_test.py
